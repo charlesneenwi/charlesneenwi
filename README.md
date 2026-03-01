@@ -1,31 +1,28 @@
-<h1>Hi, I'm Charles! <br/><a href="">Developer</a>, <a href="https://www.linkedin.com/in/neenwi-charles-b908b6361?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjX4JMtv9SEW6sx39%2FOyGUA%3D%3D">Graphic Designer</a>
-<h2>👨‍💻 Front-End Development Projects:</h2>
+# 👋 Hi, I'm Charles Neenwi
+### **Frontend Engineer & UI Specialist**
+*Specializing in React.js to build high-performance, visually stunning web applications.*
 
-- <b>What I’m Working On</b>
-- 🔭 Exploring **Frontend Development** (HTML • CSS • JavaScript)  
-- 🎨 Designing **thumbnails & UI concepts** for YouTube creators and projects  
-- 🌍 Researching user needs for Nigeria’s **tourism-tech platform** (ALX project)  
+---
 
+### 🚀 Professional Profile
+- 💻 **Frontend Engineer:** 2+ year of experience building responsive web apps with **React**, **JavaScript (ES6+)**, and **Tailwind CSS**.
+- 🎓 **ALX Alumnus:** Successfully completed the intensive ALX Software Engineering program (Frontend Specialization).
+- 🎨 **Design-Driven:** Leveraging a background in **Graphic Design** to bridge the gap between complex code and beautiful UI/UX.
 
+### 🛠️ Tech Stack
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS  
+**Design & Tools:** Figma, Git/GitHub, REST APIs, UI/UX Design  
 
-<h2> 🤳 Connect with me:</h2>
+### 📂 Featured Projects
+- **[Recipe Finder Pro](https://recipe-finder-react-nu.vercel.app/):** A React-based search engine using TheMealDB API. Features persistent "Favorites" via LocalStorage and a mobile-first UI.
 
-[<img align="left" alt="CharlesNeenwi | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />](https://x.com/Charles_nk)  
-[<img align="left" alt="CharlesNeenwi | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/neenwi-charles-b908b6361)  
-[<img align="left" alt="CharlesNeenwi | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />](https://www.instagram.com/charlesneenwi)  
- 
+### 🤳 Let's Connect
+[<img align="left" alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/neenwi-charles-b908b6361) 
+[<img align="left" alt="Twitter/X" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />](https://x.com/Charles_nk)
+[<img align="left" alt="Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />](https://www.instagram.com/charlesneenwi)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+---
+*Open to remote roles in the US, Europe, and Canada. 🌍*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
