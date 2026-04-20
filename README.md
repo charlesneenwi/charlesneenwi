@@ -9,7 +9,7 @@ I build clean, performant web applications that solve real problems. ALX-certifi
 ## Tech Stack
 
 **Languages:** JavaScript (ES6+), HTML5, CSS3  
-**Frameworks & Libraries:** React.js, Tailwind CSS, Framer Motion  
+**Frameworks & Libraries:** React.js, Tailwind CSS, Framer Motion, SASS, Front-end State Management Libraries 
 **Tools & Platforms:** Vite, Git, GitHub, Vercel, REST APIs  
 **AI & APIs:** Gemini API, AI API Integration  
 
