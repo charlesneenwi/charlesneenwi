@@ -1,28 +1,43 @@
-# 👋 Hi, I'm Charles Neenwi
-### **Frontend Engineer & UI Specialist**
-*Specializing in React.js to build high-performance, visually stunning web applications.*
+# Hi, I'm Charles Neenwi
+
+**Frontend Engineer · React Developer · AI Integration**
+
+I build clean, performant web applications that solve real problems. ALX-certified frontend engineer specializing in React, Tailwind CSS, and Vite. Currently focused on AI-powered product development.
 
 ---
 
-### 🚀 Professional Profile
-- 💻 **Frontend Engineer:** 2+ year of experience building responsive web apps with **React**, **JavaScript (ES6+)**, and **Tailwind CSS**.
-- 🎓 **ALX Alumnus:** Successfully completed the intensive ALX Software Engineering program (Frontend Specialization).
-- 🎨 **Design-Driven:** Leveraging a background in **Graphic Design** to bridge the gap between complex code and beautiful UI/UX.
+## Tech Stack
 
-### 🛠️ Tech Stack
-**Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS  
-**Design & Tools:** Figma, Git/GitHub, REST APIs, UI/UX Design  
-
-### 📂 Featured Projects
-- **[Recipe Finder Pro](https://recipe-finder-react-nu.vercel.app/):** A React-based search engine using TheMealDB API. Features persistent "Favorites" via LocalStorage and a mobile-first UI.
-
-### 🤳 Let's Connect
-[<img align="left" alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/neenwi-charles-b908b6361) 
-[<img align="left" alt="Twitter/X" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />](https://x.com/Charles_nk)
-[<img align="left" alt="Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />](https://www.instagram.com/charlesneenwi)
-
-<br/>
+**Languages:** JavaScript (ES6+), HTML5, CSS3  
+**Frameworks & Libraries:** React.js, Tailwind CSS, Framer Motion  
+**Tools & Platforms:** Vite, Git, GitHub, Vercel, REST APIs  
+**AI & APIs:** Gemini API, AI API Integration  
 
 ---
-*Open to remote roles in the US, Europe, and Canada. 🌍*
 
+## Featured Projects
+
+**[AI Chat App](https://ai-chat-app-lovat.vercel.app)**  
+A fully functional AI chat interface built with React, Vite, and the Gemini API. Features real-time AI responses, conversation history, localStorage persistence, typing indicator, and a premium dark UI.  
+`React` `Vite` `Gemini API` `Tailwind CSS`
+
+**[Scenixa — AI SaaS Landing Page](https://saas-landing-page-seven-zeta.vercel.app)**  
+A seven-section SaaS landing page for an AI video generation platform. Built with scroll-triggered animations using Framer Motion.  
+`React` `Vite` `Tailwind CSS` `Framer Motion`
+
+**[Recipe Finder App](https://recipe-finder-react-nu.vercel.app)**  
+A recipe discovery app with live REST API integration and a persistent favourites system using localStorage.  
+`React` `Tailwind CSS` `TheMealDB API`
+
+---
+
+## Let's Connect
+
+- Portfolio: [my-portfolio-beige-three-30.vercel.app](https://my-portfolio-beige-three-30.vercel.app)
+- Email: charlesneenwi@gmail.com
+- LinkedIn: [linkedin.com/in/neenwi-charles-b908b6361](https://www.linkedin.com/in/neenwi-charles-b908b6361)
+- GitHub: [github.com/charlesneenwi](https://github.com/charlesneenwi)
+
+---
+
+*Open to remote frontend roles globally*
